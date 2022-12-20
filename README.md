@@ -11,6 +11,9 @@ Type your question in the text field and press the return key to receive a respo
 To exit the chatbot, type "bye" or "goodbye" in the text field.
 `Note`: The chatbot is currently incomplete and the responses may not be very accurate. Work is ongoing to improve the response quality.
 
+### Important!
+For this to work you will need to use your own Open AI key and swap it in for mine in the code
+
 ## Data
 
 The data for the chatbot is stored in the Data/Mental_Health_FAQ.csv file in the following format:
